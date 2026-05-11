@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+h5py
+requests
+tqdm
+jupyter
